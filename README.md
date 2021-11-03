@@ -4,19 +4,19 @@ phpjs web framework
 ```
 main
 ├── app
-│   └── css
-│   └── js
+│   ├── css
+│   ├── js
 │   │   ├── _node
 │   |   │   └── core
 │   │   └── plugins
-│   └── font
+│   ├── font
 │   └── img
 ├── vendor
-│   └── css
-│   └── js
+│   ├── css
+│   ├── js
 │   │   └── page
 │   |       └── core
-│   └── php
+│   ├── php
 │   │   ├── class
 │   │   ├── meta
 │   │   ├── page

@@ -1,5 +1,5 @@
 # php-jquery-spa-mvc
-An open-source framework for building dynamic "single page action" web applications that include significant client-side interactions using PHP, HTML5, CSS3 and JavaScript.
+An open-source framework for building dynamic _"single page action"_ web applications that include significant client-side interactions using PHP, HTML5, CSS3 and JavaScript.
 
 License: [MIT](https://github.com/ryzaer/php-jquery-spa-mvc/blob/main/LICENSE)
 ## Folder Construction

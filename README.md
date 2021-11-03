@@ -1,5 +1,6 @@
 # php-jquery-mvc
 phpjs web framework
+```
 app
 ├── config
 │   └── routes.js
@@ -20,3 +21,4 @@ app
 │       │       └── index.js
 │       └── index.js
 └── index.js
+```

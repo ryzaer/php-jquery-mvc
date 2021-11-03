@@ -21,7 +21,6 @@ main
 │       ├── meta
 │       ├── page
 │       |   └── core
-│       └── temp
-│   
+│       └── temp 
 └── index.php
 ```

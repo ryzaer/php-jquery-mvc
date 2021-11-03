@@ -1,9 +1,15 @@
-# php-jquery-mvc
+# php-jquery-spa-mvc
 phpjs web framework
 ```
-app
-├── config
-│   └── routes.js
+main
+├── app
+│   └── css
+│   └── js
+│   │   ├── _node
+│   |   │   └── core
+│   │   └── plugins
+│   └── font
+│   └── img
 ├── screens
 │   └── App
 │       ├── screens

@@ -5,23 +5,23 @@ phpjs web framework
 main
 ├── app
 │   ├── css
-│   ├── js
-│   │   ├── _node
-│   |   │   └── core
-│   │   └── plugins
 │   ├── font
-│   └── img
+│   ├── img
+│   └── js
+│       ├── _node
+│       │   └── core
+│       └── plugins
 ├── vendor
 │   ├── css
 │   ├── js
 │   │   └── page
 │   |       └── core
-│   ├── php
-│   │   ├── class
-│   │   ├── meta
-│   │   ├── page
-│   |   |   └── core
-│   │   └── temp
-│   └── tmp
+│   └── php
+│       ├── class
+│       ├── meta
+│       ├── page
+│       |   └── core
+│       └── temp
+│   
 └── index.php
 ```

@@ -1,7 +1,7 @@
 # php-jquery-spa-mvc
 phpjs web framework
+## Folder Construction
 ```
-FOLDER CONSTRUCTION
 main
 ├── app
 │   └── css
